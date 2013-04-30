@@ -1,0 +1,27 @@
+{
+    "name": "accidents-with-colors",
+    "isDefaultForTable": true,
+    "markerOptions": {
+        "iconStyler": {
+            "kind": "fusiontables#buckets",
+            "columnName": "accidents",
+            "buckets": [{
+                "min": 1,
+                "max": 2,
+                "icon": "small_blue"
+            }, {
+                "min": 2,
+                "max": 3,
+                "icon": "small_green"
+            }, {
+                "min": 3,
+                "max": 4,
+                "icon": "small_yellow"
+            }, {
+                "min": 4,
+                "max": 100,
+                "icon": "small_red"
+            }]
+        }
+    }
+}

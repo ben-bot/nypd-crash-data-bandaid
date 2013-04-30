@@ -1,0 +1,7 @@
+PyRSS2Gen==1.0.0
+apiclient==1.0.2
+geopy==0.94.1
+google-api-python-client==1.1
+oauth2client==1.1
+requests==0.10.4
+urllib3==1.5
